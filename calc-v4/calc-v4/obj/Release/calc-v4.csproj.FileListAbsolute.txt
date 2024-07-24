@@ -1,0 +1,10 @@
+C:\Users\raevs\source\repos\calc-v4\calc-v4\bin\Release\calc-v4.exe.config
+C:\Users\raevs\source\repos\calc-v4\calc-v4\bin\Release\calc-v4.exe
+C:\Users\raevs\source\repos\calc-v4\calc-v4\bin\Release\calc-v4.pdb
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc-v4.csproj.AssemblyReference.cache
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc_v4.Form1.resources
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc_v4.Properties.Resources.resources
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc-v4.csproj.GenerateResource.cache
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc-v4.csproj.CoreCompileInputs.cache
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc-v4.exe
+C:\Users\raevs\source\repos\calc-v4\calc-v4\obj\Release\calc-v4.pdb
