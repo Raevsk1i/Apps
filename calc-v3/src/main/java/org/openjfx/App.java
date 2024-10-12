@@ -150,8 +150,8 @@ public class App extends Application {
         GridPane.setHalignment(submitButton, HPos.CENTER);
         GridPane.setMargin(submitButton, new Insets(20, 0,20,0));
 
-        Label descLabel = new Label("% профиля - профиль, который мы берем длс макс перфа \n" +
-                "sec Время ступени - время стабилизации нагрузкеи на ступени\n" +
+        Label descLabel = new Label("% профиля - процент от профиля, до которого поднимаем нагрузку \n" +
+                "sec Время ступени - время стабилизации нагрузки на ступени\n" +
                 "% ступени -  от профиля, на который ступень поднимает нагрузку\n" +
                 "Путь до результатов, пример: C:\\files\\calc\\" +
                 "\nRamp-up - это рамп-ап для всех, кроме первой ступени."
